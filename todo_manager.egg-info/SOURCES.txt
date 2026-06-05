@@ -1,0 +1,13 @@
+README.md
+setup.py
+tests/__init__.py
+tests/test_recurring_task.py
+tests/test_task.py
+todo_manager/__init__.py
+todo_manager/recurring_task.py
+todo_manager/task.py
+todo_manager/utils.py
+todo_manager.egg-info/PKG-INFO
+todo_manager.egg-info/SOURCES.txt
+todo_manager.egg-info/dependency_links.txt
+todo_manager.egg-info/top_level.txt

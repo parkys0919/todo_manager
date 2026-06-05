@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: todo_manager
+Version: 1.0.0
+Summary: A Python package for managing tasks and recurring tasks
+Author: Park Yunseung
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
